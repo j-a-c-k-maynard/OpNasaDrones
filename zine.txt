@@ -72,17 +72,17 @@ uid                  AnonSec (Nihil Verum Est Omnia Licita) <An0nsec@protonmail.
 
                                                                                     +      o     +              o   
   BEWARE                             +------------------------------------+        +             o     +       +
-			         OF	             |          Table of Contents         |    o          +
-	     RANTS,			             |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|        o  +           +        +
- 					                 |     0x00 -  Preface                |    +        o     o       +        o
-			        RICKTROLLING	 |     0x01 -  FLASH FROM THE PAST    |    -_-_-_-_-_-_-_,------,      o 
-		       		                 |     0x02 -  TTP(Tech/Tac/Pro)      |    _-_-_-_-_-_-_-|   /\_/\  
-   			   AND                   |     0x03 -  NASA Missions&Aircraft |    -_-_-_-_-_-_-~|__( ^ .^)  +     +  
-   				                     |     0x04 -  Chemtrails/CS/GE/WM    |    _-_-_-_-_-_-_-""  ""      
+		OF	             |          Table of Contents         |    o          +
+RANTS,			             |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|        o  +           +        +
+ 				     |     0x00 -  Preface                |    +        o     o       +        o
+		 RICKTROLLING	     |     0x01 -  FLASH FROM THE PAST    |    -_-_-_-_-_-_-_,------,      o 
+		       		     |     0x02 -  TTP(Tech/Tac/Pro)      |    _-_-_-_-_-_-_-|   /\_/\  
+   	       AND                   |     0x03 -  NASA Missions&Aircraft |    -_-_-_-_-_-_-~|__( ^ .^)  +     +  
+   				     |     0x04 -  Chemtrails/CS/GE/WM    |    _-_-_-_-_-_-_-""  ""      
    ROOTKITS                          |     0x05 -  WHATS A ROOTKIT?       |       +         o         +       +
                                      |     0x06 -  Russian Roulette       |    +      o         o   +       o
                                      |     0x07 -  Epilogue               |       +         +
-   					                 +------------------------------------+     o        o         o      o     + 
+   				     +------------------------------------+     o        o         o      o     + 
 
  
  
@@ -107,7 +107,7 @@ spoofed emails from the HR department, this would have never happened lol // Goz
         +==================================================================================+
 
 		
-		               .-------.
+		       .-------.
                      .'         `.
                    .'             `.
                    |    NO SKIDS   |
@@ -3689,8 +3689,8 @@ Baa..                 |                   /    Baa..
    (__,-'      ,'o"(  "SHEEP,'o"(  "SHEEP"    )>   
       (       (__,-'       (__,-'             )                       
        `-'._.--._(             (             )     
-	      |||  |||`-'._.--._.-' `-'._.--._.-'                         
-		             |||  |||      |||  ||| 
+	   |||  |||`-'._.--._.-' `-'._.--._.-'                         
+		      |||  |||      |||  ||| 
  
  
 We all know these people, the ones who will make up an infinite amount of excuses for any
@@ -4450,20 +4450,20 @@ YOUR TRACES HAVE BEEN SUCCESSFULLY ERASED FROM THE SERVER! ─=≡Σ((( つ◕ل
 
    
    
-	           ___  
-	           | \\
-	           |  \\
+	       ___  
+	       | \\
+	       |  \\
                |872\\
               _|    \\_________
       =  = ==|_|     \\   NASA (\___________,-~~~~~~~`-.._
       =  = ==|_|_________       /                         \_
                      \___________..----..___________________)
                       `---~~~--|      /-------\--------`````
-			                   |     /         \_
-    			               |    /
-			                   |   /
-			                   |  /
-			                   |_/
+			       |     /         \_
+    			       |    /
+			       |   /
+			       |  /
+			       |_/
 					  	     
 
    
@@ -4659,7 +4659,7 @@ We finally had FULL ROOT ACCESS to all 3 NAS devices; DRONE_BACKUPS, DRONE_BACKU
  
  
  					"IM DOING MY HAPPY DANCE HAPPY AND ABOUT TO SNORT A LINE RIGHT NOW!!!"
-											- @Bashtien_
+								- @Bashtien_
  
  
  
@@ -4738,12 +4738,12 @@ yet another cronjob+rsync combo on 27workstation239 to a VPS outside NASA networ
 	| WD  |  -------\                                                                                  
 	| NAS |          \                                                                                      
 	+-----+           \                                                                                   
-                       \                                                                                  
+                           \                                                                                  
 	+-----+             +------------+             +--------------------+             +---------------+
 	| WD  |             |            |             |                    |             |   offshore    |
 	| NAS |  ---------- |  dryden78  | ----------- |  27workstation239  | ----------- |  AnonSec VPS  | 
 	+-----+             |            |             |                    |             |               | 
-                        +------------+             +--------------------+             +---------------+ 
+                            +------------+             +--------------------+             +---------------+ 
 	+-----+           /                                                                                  
 	| WD  |          /
 	| NAS |  -------/
@@ -4788,7 +4788,7 @@ root@dryden78:~# echo "git clone https://github.com/klange/nyancat && cd nyancat
 
 
 root@dryden78:~# ./nyan.sh 			  
-									  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+				      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                       ░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
                                       ░░░░░░░░▄▀░░░░░░░░░░░░▄░░░░░░░▀▄░░░░░░░
                                       ░░░░░░░░█░░▄░░░░▄░░░░░░░░░░░░░░█░░░░░░░
@@ -4969,12 +4969,12 @@ find . -name '*.*' | gawk 'BEGIN{ a=1 }{ printf "mv \"%s\" %04d.mp4\n", $0, a++ 
 
 
 					+==============================================================================+
-					|					LauGhiNgAtYoU  (✌ﾟ∀ﾟ)☞   NASA                             |
-                    +==============================================================================+
+					|	             LauGhiNgAtYoU  (✌ﾟ∀ﾟ)☞   NASA                             |
+                                        +==============================================================================+
 					|   Mirrors of OpNasaDrones Zine & +250GBs logs Torrent Magnet URI @ Release   |
-		            |==============================================================================|
-					|	         ~>    http://pastebin.com/Ws67FPBr                                |
-                    |                  http://pastebin.com/KcTKC6j4                                |
+		                        |==============================================================================|
+					|	         ~>    http://pastebin.com/Ws67FPBr                            |
+                                        |                  http://pastebin.com/KcTKC6j4                                |
 					|                  http://pastebin.com/syA0WmTs                                |
 					|       Zine       http://scola.ca/zine.txt                                    |
 					|                  http://adpi.or.id/zine.txt                                  |
@@ -4985,11 +4985,11 @@ find . -name '*.*' | gawk 'BEGIN{ a=1 }{ printf "mv \"%s\" %04d.mp4\n", $0, a++ 
 					|                  http://www.ladyluckclub.co.uk/zine.txt                      |
 					|                  http://emagrecerrapidoecomsaude.com.br/zine.txt             |
 					|                  http://www.tinleyparkconventioncenter.net/zine.txt          |
-					| 			       													           |	
-					|								&&                                             |
-					|																			   |
-					|	         ~>    http://pastebin.com/ricniQuK                                |
-                    |                  http://pastebin.com/GF9BPme5                                |
+					| 		                                                               |	
+					|				&&                                             |
+					|									       |
+					|	         ~>    http://pastebin.com/ricniQuK                            |
+                                        |                  http://pastebin.com/GF9BPme5                                |
 					|                  http://pastebin.com/DQZxp9pR                                |
 					|    Magnet URI    http://scola.ca/magnet.txt                                  |
 					|                  http://adpi.or.id/magnet.txt                                |
@@ -4999,8 +4999,8 @@ find . -name '*.*' | gawk 'BEGIN{ a=1 }{ printf "mv \"%s\" %04d.mp4\n", $0, a++ 
 					|            ~>    http://sandrasinndubai.com/magnet.txt                       |
 					|                  http://www.ladyluckclub.co.uk/magnet.txt                    |
 					|                  http://emagrecerrapidoecomsaude.com.br/magnet.txt           |
-                    |                  http://www.tinleyparkconventioncenter.net/magnet.txt        |					
-					+------------------------------------------------------------------------------+
+                                        |                  http://www.tinleyparkconventioncenter.net/magnet.txt        |
+                                        +------------------------------------------------------------------------------+
           
 
   
@@ -5029,7 +5029,7 @@ http://www.tinleyparkconventioncenter.net/pgp.txt
  
  
 
-								"We are on the verge of taking down this virtual reality..."
+					"We are on the verge of taking down this virtual reality..."
  
 
 
